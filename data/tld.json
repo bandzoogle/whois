@@ -1447,6 +1447,9 @@
   ".monash": {
     "host": "whois.nic.monash"
   },
+  ".money": {
+    "host": "whois.donuts.co"
+  },
   ".nagoya": {
     "adapter": "none"
   },
