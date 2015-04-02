@@ -1,0 +1,110 @@
+#domain
+  %s == "josh.rocks"
+
+#domain_id
+  %s == "8f8e4c0a819e4376a0a5d4b4d1bea3d4-D"
+
+
+#status
+  %s == :registered
+
+#available?
+  %s == false
+
+#registered?
+  %s == true
+
+
+#created_on
+  %s %CLASS{time}
+  %s %TIME{2014-08-06 17:00:00 UTC}
+
+#updated_on
+  %s %CLASS{time}
+  %s %TIME{2014-10-22 16:51:39 UTC}
+
+#expires_on
+  %s %CLASS{time}
+  %s %TIME{2015-08-06 17:00:00 UTC}
+
+
+#registrar
+  %s %CLASS{registrar}
+  %s.id           == "625"
+  %s.name         == "Name.com, inc."
+  %s.organization == "Name.com, inc."
+  %s.url          == nil
+
+
+#registrant_contacts
+  %s %CLASS{array}
+  %s %SIZE{1}
+  %s[0] %CLASS{contact}
+  %s[0].type          == Whois::Record::Contact::TYPE_REGISTRANT
+  %s[0].id            == "nec08hacw6gnhvt5"
+  %s[0].name          == "Domain Buyer"
+  %s[0].organization  == "Innovation HQ, Inc."
+  %s[0].address       == "PO Box 990 Lower Factory Rd"
+  %s[0].city          == "St Johns"
+  %s[0].zip           == "99999"
+  %s[0].state         == "Antigua"
+  %s[0].country       == nil
+  %s[0].country_code  == "AG"
+  %s[0].phone         == "+1.8153018012"
+  %s[0].fax           == ""
+  %s[0].email         == "emailregistrarinfo@innovationhq.com"
+  %s[0].created_on    == nil
+  %s[0].updated_on    == nil
+
+#admin_contacts
+  %s %CLASS{array}
+  %s %SIZE{1}
+  %s[0] %CLASS{contact}
+  %s[0].type          == Whois::Record::Contact::TYPE_ADMINISTRATIVE
+  %s[0].id            == "nec08hacw6gnhvt5"
+  %s[0].name          == "Domain Buyer"
+  %s[0].organization  == "Innovation HQ, Inc."
+  %s[0].address       == "PO Box 990 Lower Factory Rd"
+  %s[0].city          == "St Johns"
+  %s[0].zip           == "99999"
+  %s[0].state         == "Antigua"
+  %s[0].country       == nil
+  %s[0].country_code  == "AG"
+  %s[0].phone         == "+1.8153018012"
+  %s[0].fax           == ""
+  %s[0].email         == "emailregistrarinfo@innovationhq.com"
+  %s[0].created_on    == nil
+  %s[0].updated_on    == nil
+
+#technical_contacts
+  %s %CLASS{array}
+  %s %SIZE{1}
+  %s[0] %CLASS{contact}
+  %s[0].type          == Whois::Record::Contact::TYPE_TECHNICAL
+  %s[0].id            == "nec08hacw6gnhvt5"
+  %s[0].name          == "Domain Buyer"
+  %s[0].organization  == "Innovation HQ, Inc."
+  %s[0].address       == "PO Box 990 Lower Factory Rd"
+  %s[0].city          == "St Johns"
+  %s[0].zip           == "99999"
+  %s[0].state         == "Antigua"
+  %s[0].country       == nil
+  %s[0].country_code  == "AG"
+  %s[0].phone         == "+1.8153018012"
+  %s[0].fax           == ""
+  %s[0].email         == "emailregistrarinfo@innovationhq.com"
+  %s[0].created_on    == nil
+  %s[0].updated_on    == nil
+
+
+#nameservers
+  %s %CLASS{array}
+  %s %SIZE{2}
+  %s[0] %CLASS{nameserver}
+  %s[0].name == "ns2.nameserviceguide.net"
+  %s[0].ipv4 == nil
+  %s[0].ipv6 == nil
+  %s[1] %CLASS{nameserver}
+  %s[1].name == "ns1.nameserviceguide.net"
+  %s[1].ipv4 == nil
+  %s[1].ipv6 == nil

@@ -1,0 +1,57 @@
+Domain Name: josh.rocks
+Domain ID: 8f8e4c0a819e4376a0a5d4b4d1bea3d4-D
+WHOIS Server: https://www.name.com/whois_result
+Referral URL: http://www.name.com
+Updated Date: 2014-10-22T16:51:39Z
+Creation Date: 2014-08-06T17:00:00Z
+Registry Expiry Date: 2015-08-06T17:00:00Z
+Sponsoring Registrar: Name.com, inc.
+Sponsoring Registrar IANA ID: 625
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant ID: nec08hacw6gnhvt5
+Registrant Name: Domain Buyer
+Registrant Organization: Innovation HQ, Inc.
+Registrant Street: PO Box 990 Lower Factory Rd   
+Registrant City: St Johns
+Registrant State/Province: Antigua
+Registrant Postal Code: 99999
+Registrant Country: AG
+Registrant Phone: +1.8153018012
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: emailregistrarinfo@innovationhq.com
+Admin ID: nec08hacw6gnhvt5
+Admin Name: Domain Buyer
+Admin Organization: Innovation HQ, Inc.
+Admin Street: PO Box 990 Lower Factory Rd   
+Admin City: St Johns
+Admin State/Province: Antigua
+Admin Postal Code: 99999
+Admin Country: AG
+Admin Phone: +1.8153018012
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: emailregistrarinfo@innovationhq.com
+Tech ID: nec08hacw6gnhvt5
+Tech Name: Domain Buyer
+Tech Organization: Innovation HQ, Inc.
+Tech Street: PO Box 990 Lower Factory Rd   
+Tech City: St Johns
+Tech State/Province: Antigua
+Tech Postal Code: 99999
+Tech Country: AG
+Tech Phone: +1.8153018012
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: emailregistrarinfo@innovationhq.com
+Name Server: ns2.nameserviceguide.net
+Name Server: ns1.nameserviceguide.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2015-04-02T14:39:49Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Terms of Use: Users accessing the United TLD WHOIS service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: Allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers. Enable high volume, automated, electronic processes that send queries or data to the systems of United TLD or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the United TLD Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources.
