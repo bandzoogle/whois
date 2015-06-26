@@ -7,7 +7,7 @@
 #++
 
 
-require 'whois/record/parser/base_icann_compliant'
+require 'whois/record/parser/whois.unitedtld.com'
 
 
 module Whois
