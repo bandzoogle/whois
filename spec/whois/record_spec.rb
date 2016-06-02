@@ -408,4 +408,9 @@ describe Whois::Record do
     end
   end
 
+  describe "#respond_to_parser_method?" do
+    it "returns true for :available?" do
+      expect(subject.send(:respond_to_parser_method?, :available?)).to be true
+    end
+  end
 end
